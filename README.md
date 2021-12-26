@@ -1,2 +1,3 @@
 # Conception-projet-lavage
-Contient les diagrammes (classe, use case, etc..) du projet lavage
+## diagramme de classes
+![class diagram](/diagrams/class%20diagram.png)
