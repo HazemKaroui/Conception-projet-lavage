@@ -5,7 +5,7 @@
 - [Comment Contribuer](#comment-contribuer)
 - [Diagramme de Cas D'utilisation](#diagramme-de-cas-dutilisation)
 - [Diagramme de Classes](#diagramme-de-classes)
-- [Diagramme de Séquence](#diagramme-de-squence)
+- [Diagramme de Séquence](#diagramme-de-séquence)
 - [Wireframes](#wireframes)
 - [Diagramme de Gantt](#diagramme-de-gantt)
 
