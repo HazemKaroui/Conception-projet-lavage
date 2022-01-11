@@ -20,6 +20,7 @@
 7. Sauvegarder votre travail. Le site va enregistrer les modifications dans le repo Github comme un commit
 
 ## Diagramme de Cas D'utilisation
+![ucecase diagram](/diagram%20d'utilisation.png)
 
 ## Diagramme de Classes
 ![class diagram](/diagrams/class%20diagram.png)
